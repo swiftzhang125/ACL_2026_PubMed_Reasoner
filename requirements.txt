@@ -1,0 +1,4 @@
+lanchain>=0.3
+langchain-openai>=0.3
+openai>=0.1
+requests>=2.31
